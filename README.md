@@ -4,12 +4,11 @@
 Hello! I’m a passionate software developer transitioning into the realm of UI/UX design. With a strong foundation in coding and a keen eye for design, I aim to create user-centered applications that offer a delightful experience. I believe in the power of design to solve problems and enhance user journey through innovative solutions.
 
 ## Skills
-- **Programming Languages**: JavaScript, Python, Ruby
-- **Frameworks**: React, Angular, Vue.js
-- **UI/UX Design**: Figma, Adobe XD, Sketch
+- **Programming Languages**: JavaScript, Laravel
+- **Frameworks**: React
+- **UI/UX Design**: Figma
 - **Web Technologies**: HTML, CSS, RESTful APIs
 - **Version Control**: Git, GitHub
-- **Agile Methodologies**: Scrum, Kanban
 
 ## Portfolio
 1. **Project Title One**  
@@ -21,8 +20,8 @@ Hello! I’m a passionate software developer transitioning into the realm of UI/
 
 ## Contact Information
 Feel free to reach out!
-- **Email**: your.email@example.com  
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-- **GitHub**: [Your GitHub Profile](https://github.com/deepti-uiux)  
+- **Email**:
+- **LinkedIn**: 
+- **GitHub**:  
 
 Thank you for visiting my portfolio!
